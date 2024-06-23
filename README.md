@@ -20,8 +20,3 @@ CertificateDapp provides a user-friendly interface for certificate management. I
 ### Verifying a Certificate:
 1. Visit the verification page to verify the authenticity of a certificate issued by the Kerala Blockchain Academy.
 
-## Support
-
-For any inquiries or issues encountered while using CertificateDapp, please feel free to contact us via the information provided in the repository.
-
-
